@@ -7,69 +7,69 @@
     },
     {
       "id": 2,
-      "name": "",
-      "image": "/assets/images/ShockwaveDesertionOfTheDinobots1.jpg",
+      "name": "Megatron",
+      "image": "/assets/images/megatron.jpg",
       "count": 0
     
     },
     {
       "id": 3,
-      "name": "",
-      "image": "/public/assets/images/ShockwaveDesertionOfTheDinobots1.jpg",
+      "name": "Optimusprime",
+      "image": "/assets/images/optimusprime.jpg",
       "count": 0
     },
     {
       "id": 4,
-      "name": "",
-      "image": "/public/assets/images/ShockwaveDesertionOfTheDinobots1.jpg",
+      "name": "Galvatron",
+      "image": "/assets/images/galvatron.jpg",
       "count": 0
     },
     {
       "id": 5,
-      "name": "",
-      "image": "/public/assets/images/ShockwaveDesertionOfTheDinobots1.jpg",
+      "name": "Jazz",
+      "image": "/assets/images/jazz.jpg",
       "count": 0
     },
     {
       "id": 6,
-      "name": "",
-      "image": "/public/assets/images/ShockwaveDesertionOfTheDinobots1.jpg",
+      "name": "Starscream",
+      "image": "/assets/images/starscream.jpg",
       "count": 0
     },
     {
       "id": 7,
-      "name": "",
-      "image": "/assets/images/ShockwaveDesertionOfTheDinobots1.jpg",
+      "name": "Silverbolt",
+      "image": "/assets/images/sliverbolt.jpg",
       "count": 0
     },
     {
       "id": 8,
-      "name": "",
-      "image": "/assets/images/ShockwaveDesertionOfTheDinobots1.jpg",
+      "name": "Skywarp",
+      "image": "/assets/images/skywarp.jpg",
       "count": 0
     },
     {
       "id": 9,
-      "name": "",
-      "image": "/public/assets/images/ShockwaveDesertionOfTheDinobots1.jpg",
+      "name": "Soundwave",
+      "image": "/assets/images/soundwave.jpg",
       "count": 0
     },
     {
       "id": 10,
-      "name": "",
-      "image": "/public/assets/images/ShockwaveDesertionOfTheDinobots1.jpg",
+      "name": "Bumblebee",
+      "image": "/assets/images/bumblebee.jpg",
       "count": 0
     },
     {
       "id": 11,
-      "name": "",
-      "image": "/public/assets/images/ShockwaveDesertionOfTheDinobots1.jpg",
+      "name": "Scrapper",
+      "image": "/assets/images/Scrapper.jpg",
       "count": 0
     },
     {
       "id": 12,
-      "name": "",
-      "image": "/public/assets/images/ShockwaveDesertionOfTheDinobots1.jpg",
+      "name": "Shrapnel",
+      "image": "/assets/images/Shrapnel.jpg",
       "count": 0
     }
   ]
