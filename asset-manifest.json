@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "//mayrton1.github.io/clickygame/static/css/main.ab273c33.chunk.css",
+    "main.js": "//mayrton1.github.io/clickygame/static/js/main.7c474b74.chunk.js",
+    "main.js.map": "//mayrton1.github.io/clickygame/static/js/main.7c474b74.chunk.js.map",
+    "runtime-main.js": "//mayrton1.github.io/clickygame/static/js/runtime-main.8acd2e6e.js",
+    "runtime-main.js.map": "//mayrton1.github.io/clickygame/static/js/runtime-main.8acd2e6e.js.map",
+    "static/js/2.f13001f6.chunk.js": "//mayrton1.github.io/clickygame/static/js/2.f13001f6.chunk.js",
+    "static/js/2.f13001f6.chunk.js.map": "//mayrton1.github.io/clickygame/static/js/2.f13001f6.chunk.js.map",
+    "index.html": "//mayrton1.github.io/clickygame/index.html",
+    "precache-manifest.c9b5d1dddd12c823a9daebcd2ebc55e3.js": "//mayrton1.github.io/clickygame/precache-manifest.c9b5d1dddd12c823a9daebcd2ebc55e3.js",
+    "service-worker.js": "//mayrton1.github.io/clickygame/service-worker.js",
+    "static/css/main.ab273c33.chunk.css.map": "//mayrton1.github.io/clickygame/static/css/main.ab273c33.chunk.css.map",
+    "static/js/2.f13001f6.chunk.js.LICENSE": "//mayrton1.github.io/clickygame/static/js/2.f13001f6.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8acd2e6e.js",
+    "static/js/2.f13001f6.chunk.js",
+    "static/css/main.ab273c33.chunk.css",
+    "static/js/main.7c474b74.chunk.js"
+  ]
+}
