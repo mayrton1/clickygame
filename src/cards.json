@@ -2,74 +2,74 @@
     {
       "id": 1,
       "name": "Shockwave",
-      "image": "/assets/images/Shockwave.jpg",
+      "image": "/clickygame/assets/images/Shockwave.jpg",
       "count": 0
     },
     {
       "id": 2,
       "name": "Megatron",
-      "image": "/assets/images/megatron.jpg",
+      "image": "/clickygame/assets/images/megatron.jpg",
       "count": 0
     
     },
     {
       "id": 3,
       "name": "Optimusprime",
-      "image": "/assets/images/optimusprime.jpg",
+      "image": "/clickygame/assets/images/optimusprime.jpg",
       "count": 0
     },
     {
       "id": 4,
       "name": "Galvatron",
-      "image": "/assets/images/galvatron.jpg",
+      "image": "/clickygame/assets/images/galvatron.jpg",
       "count": 0
     },
     {
       "id": 5,
       "name": "Jazz",
-      "image": "/assets/images/jazz.jpg",
+      "image": "/clickygame/assets/images/jazz.jpg",
       "count": 0
     },
     {
       "id": 6,
       "name": "Starscream",
-      "image": "/assets/images/starscream.jpg",
+      "image": "/clickygame/assets/images/starscream.jpg",
       "count": 0
     },
     {
       "id": 7,
       "name": "Silverbolt",
-      "image": "/assets/images/sliverbolt.jpg",
+      "image": "/clickygame/assets/images/sliverbolt.jpg",
       "count": 0
     },
     {
       "id": 8,
       "name": "Skywarp",
-      "image": "/assets/images/skywarp.jpg",
+      "image": "/clickygame/assets/images/skywarp.jpg",
       "count": 0
     },
     {
       "id": 9,
       "name": "Soundwave",
-      "image": "/assets/images/soundwave.jpg",
+      "image": "/clickygame/assets/images/soundwave.jpg",
       "count": 0
     },
     {
       "id": 10,
       "name": "Bumblebee",
-      "image": "/assets/images/bumblebee.jpg",
+      "image": "/clickygame/assets/images/bumblebee.jpg",
       "count": 0
     },
     {
       "id": 11,
       "name": "Scrapper",
-      "image": "/assets/images/Scrapper.jpg",
+      "image": "/clickygame/assets/images/Scrapper.jpg",
       "count": 0
     },
     {
       "id": 12,
       "name": "Shrapnel",
-      "image": "/assets/images/Shrapnel.jpg",
+      "image": "/clickygame/assets/images/Shrapnel.jpg",
       "count": 0
     }
   ]
